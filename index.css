@@ -1,0 +1,33 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oleo+Script:wght@700&display=swap'); 
+body{
+
+    /* background-color:rgba(75, 40, 217, 1) rgba(124, 105, 202, 0.44); */
+    /* background: linear-gradient(110deg, #df15df 60%, #814bff57 60%); */
+   
+}
+
+.name{
+margin-left: 350px;
+font-size: xx-large;
+height: 0;
+width: 20em;
+
+}
+.hii{
+    margin-left: 70%;
+    height: 300px;
+    width: 300px;
+}
+
+
+.navi{
+    margin-left: 68%;
+    font-family: 'Montserrat', sans-serif;;
+    height: 0;
+}
+nav{
+   font-weight: 400;
+   height: 0;
+  
+}
+
